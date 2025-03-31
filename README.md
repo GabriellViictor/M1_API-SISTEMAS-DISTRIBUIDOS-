@@ -73,6 +73,3 @@ O servidor permite interagir diretamente pelo terminal:
 1. Execute `npm start`.
 2. Digite o título e o ano do filme quando solicitado.
 
-## 📜 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
