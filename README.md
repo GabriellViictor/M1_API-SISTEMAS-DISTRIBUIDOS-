@@ -2,7 +2,7 @@
 
 Este repositório contém uma API desenvolvida em TypeScript como parte do Módulo 1 da disciplina de Sistemas Distribuídos. O objetivo do projeto é fornecer um serviço para agregação de informações sobre filmes.
 
-## 📌 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Node.js** - Ambiente de execução JavaScript no lado do servidor
 - **Express.js** - Framework para construção de APIs RESTful
@@ -10,23 +10,9 @@ Este repositório contém uma API desenvolvida em TypeScript como parte do Módu
 - **Axios** - Cliente HTTP para consumir APIs externas
 - **Dotenv** - Gerenciamento de variáveis de ambiente
 
-## 📂 Estrutura do Projeto
 
-```
-M1_API-SISTEMAS-DISTRIBUIDOS-
-│── dist/                     # Arquivos compilados
-│── movie-aggregator/         # Módulo para agregar informações sobre filmes
-│── src/                      # Diretório com o código-fonte
-│   │── controllers/          # Controladores da API
-│   │── routes/               # Definição das rotas
-│   │── services/             # Serviços para manipulação de dados
-│   │── app.ts                # Arquivo principal da API
-│── .env                      # Variáveis de ambiente
-│── tsconfig.json             # Configuração do TypeScript
-│── package.json              # Dependências e scripts do projeto
-```
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1️⃣ Clonar o Repositório
 ```bash
@@ -69,7 +55,4 @@ GET /movies/:title
   "rating": "8.8"
 }
 ```
-
-## 📜 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
