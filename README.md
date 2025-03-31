@@ -24,7 +24,7 @@ Além disso, você precisará de chaves de API para OMDB e TMDB:
 - Crie uma conta no [OMDB](https://www.omdbapi.com/) e obtenha sua chave de API.
 - Crie uma conta no [TMDB](https://www.themoviedb.org/) e gere um token de acesso.
 
-## nstalação
+## Instalação
 1. Clone este repositório:
    ```sh
    git clone https://github.com/GabriellViictor/M1_API-SISTEMAS-DISTRIBUIDOS-.git
@@ -42,7 +42,7 @@ Além disso, você precisará de chaves de API para OMDB e TMDB:
    TMDB_API_KEY=your_tmdb_api_key
    ```
 
-## ▶Como Rodar o Projeto
+## ▶ Como Rodar o Projeto
 ### Executando o Servidor
 Para iniciar a API, utilize:
 ```sh
@@ -72,4 +72,7 @@ Resposta esperada:
 O servidor permite interagir diretamente pelo terminal:
 1. Execute `npm start`.
 2. Digite o título e o ano do filme quando solicitado.
+
+## Vídeo Demonstrativo
+[Video com explicacao](https://youtu.be/AI26lCja-HU)
 
